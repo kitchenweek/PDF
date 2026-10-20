@@ -1,0 +1,2 @@
+python-telegram-bot>=22.5,<23
+PyMuPDF>=1.26.6,<2
